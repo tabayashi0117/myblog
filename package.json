@@ -1,0 +1,25 @@
+{
+  "name": "MyBlog",
+  "version": "1.0.0",
+  "description": "tech blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabayashi0117/myblog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tabayashi0117/myblog/issues"
+  },
+  "homepage": "https://github.com/tabayashi0117/myblog#readme",
+  "dependencies": {
+    "vuepress": "^1.6.0"
+  }
+}
