@@ -4,8 +4,8 @@
   "description": "tech blog",
   "main": "index.js",
   "scripts": {
-    "start": "vuepress dev docs",
-    "build": "vuepress build docs",
+    "dev": "vuepress dev src",
+    "build": "vuepress build src --dest dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/tabayashi0117/myblog#readme",
   "dependencies": {
-    "vuepress": "^1.6.0"
+    "vuepress": "^1.6.0",
+    "vuepress-theme-meteorlxy": "^1.9.0"
   }
 }
