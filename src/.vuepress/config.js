@@ -23,19 +23,13 @@ module.exports = {
     // Personal infomation (delete the fields if you don't have / don't want to display)
     personalInfo: {
       // Nickname
-      nickname: 'meteorlxy',
+      nickname: 'tabayashi0117',
 
       // Introduction of yourself (HTML supported)
       description: 'Happy Coding<br/>Happy Life',
 
-      // Email
-      email: 'meteor.lxy@foxmail.com',
-
       // Your location
-      location: 'Xi\'an City, China',
-
-      // Your organization
-      organization: 'Xi\'an Jiao Tong University',
+      location: 'Tokyo, Japan',
 
       // Your avatar image
       // Set to external link
